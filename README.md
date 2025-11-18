@@ -2,28 +2,6 @@
 Predictive Text Input Using Trie
 [![C++](https://img.shields.(https://img.shields.io.shields.io/badge/build-passing-brightgreen.stem that learns from user input patterns using Trie data structures combined with machine learning elements.
 
-📋 Table of Contents
-Overview
-
-Features
-
-Technical Architecture
-
-Installation
-
-Usage
-
-Examples
-
-Performance
-
-Machine Learning Components
-
-API Reference
-
-Contributing
-
-License
 
 🎯 Overview
 This project implements a sophisticated Predictive Text Input System that combines the efficiency of Trie data structures with machine learning techniques to provide intelligent autocomplete suggestions. The system continuously learns from user interactions, improving suggestions over time through frequency-based learning and context prediction.
