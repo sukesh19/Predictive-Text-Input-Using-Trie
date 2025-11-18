@@ -1,4 +1,4 @@
-# Predictive-Text-Input-Using-Trie
+# Predictive-Text-Input
 Predictive Text Input Using Trie
 [![C++](https://img.shields.(https://img.shields.io.shields.io/badge/build-passing-brightgreen.stem that learns from user input patterns using Trie data structures combined with machine learning elements.
 
